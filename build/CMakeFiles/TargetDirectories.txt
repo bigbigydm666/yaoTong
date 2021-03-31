@@ -1,0 +1,4 @@
+/home/ydm/Codes/yaotongv2.0/build/CMakeFiles/rebuild_cache.dir
+/home/ydm/Codes/yaotongv2.0/build/CMakeFiles/edit_cache.dir
+/home/ydm/Codes/yaotongv2.0/build/CMakeFiles/run.dir
+/home/ydm/Codes/yaotongv2.0/build/CMakeFiles/v4l2cpp.dir
